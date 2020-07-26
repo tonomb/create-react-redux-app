@@ -4,3 +4,15 @@
 
 //import individual component styles from ./components
 
+
+
+// how to use breakpoints 
+// @include media('<=tablet'){
+//   height: 48px;
+// }
+// @include media('<=phone'){
+//   height: 32px;
+// }
+// @include media('<=desktop', '>tablet'){
+//   font-size: 1.4rem;
+// }
