@@ -9,7 +9,7 @@ It´s set up with:
   * react-router-dom
   * private routing component
   * default reducer setup
-  *
+  
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
